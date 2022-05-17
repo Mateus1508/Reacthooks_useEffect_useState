@@ -1,2 +1,3 @@
 # Reacthooks_useEffect_useState
-Created with CodeSandbox
+
+Aprendendo sobre os hooks useState e useEffect no React
